@@ -1,1 +1,1 @@
-### Academia De Lógica... 🚀 
+### Academia de lógica... 🚀 
