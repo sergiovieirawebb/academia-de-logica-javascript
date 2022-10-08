@@ -6,7 +6,7 @@
 
 ## Tecnologia
 
-Exercícios resolvidos com a seguinte tecnologia:
+Exercícios resolvidos com a tecnologia:
 
 - [Javascript](https://www.w3schools.com/js/)
 
