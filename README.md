@@ -12,4 +12,4 @@ Exercícios resolvidos com a tecnologia:
 
 ## Licença
 
-Esse projeto foi criado por [Sérgio Vieira](https://www.linkedin.com/in/sergiovieirawebb/) - Desenvolvedor de Back-end. E está sob a licença MIT, veja o arquivo [LICENSE](./LICENSE.md) para mais detalhes... :rocket:
+Esse projeto foi criado por [Sérgio Vieira](https://www.linkedin.com/in/sergiovieirawebb/). E está sob a licença MIT, veja o arquivo [LICENSE](./LICENSE.md) para mais detalhes... :rocket:
