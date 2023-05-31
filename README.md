@@ -6,7 +6,7 @@
 
 ## Tecnologia
 
-Exercícios resolvidos com a tecnologia:
+Pensando e, em seguida, codificando, Sérgio criou este repositório para aprimorar seus conhecimentos em lógica de programação, utilizando a seguinte tecnologia:
 
 - [Javascript](https://www.w3schools.com/js/)
 
