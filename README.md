@@ -6,7 +6,7 @@
 
 ## Tecnologia
 
-Sempre pensando e, em seguida, codificando, criei este repositório para aprimorar seus conhecimentos em lógica de programação, utilizando a seguinte tecnologia:
+Sempre pensando e, em seguida, codificando, criei este repositório para aprimorar meus conhecimentos em lógica de programação, utilizando a seguinte tecnologia:
 
 - [Javascript](https://www.w3schools.com/js/)
 
