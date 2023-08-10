@@ -1,4 +1,4 @@
-# Academia de lógica 
+# Academia de lógica Javascript
 
 <p align="center">
   <img alt="Preview" src="./.github/preview.jpeg">
